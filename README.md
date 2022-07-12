@@ -3,7 +3,8 @@
 </h1>
 
 Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar NUST.
-
+<br/>
+![](https://komarev.com/ghpvc/?username=Huzaiifaaaa)
 <br>
 
 ## My Statistics
