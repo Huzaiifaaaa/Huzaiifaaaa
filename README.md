@@ -8,12 +8,6 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar N
 
 ## My Statistics
 
-<p align="center">
-  <a href="https://github.com/Huzaiifaaaa">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huzaiifaaaa&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 <br/>
 <p align="left">
@@ -23,6 +17,12 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar N
   </a>
 </p>
 <br>
+
+<p align="left" width="100%">
+  <a href="https://github.com/Huzaiifaaaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huzaiifaaaa&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ![Huzaiifaaaa Activity Graph](https://activity-graph.herokuapp.com/graph?username=Huzaiifaaaa&custom_title=Huzaiifaaaa's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
