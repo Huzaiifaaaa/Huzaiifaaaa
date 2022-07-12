@@ -5,7 +5,7 @@
 Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar NUST.
 <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=Huzaiifaaaa&color=ffd700)
+![](https://komarev.com/ghpvc/?username=Huzaiifaaaa&color=fffd85&label= Visito+Count+:)
 <br/>
 
 ## My Statistics
