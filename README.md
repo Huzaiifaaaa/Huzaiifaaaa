@@ -6,6 +6,7 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar N
 <br/>
 <br/>
 ![](https://komarev.com/ghpvc/?username=Huzaiifaaaa&label=Visitor+Count+:&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=72877027)
 <br/>
 
 ## My Statistics
