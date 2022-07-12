@@ -1,5 +1,5 @@
 <h1 align="left">
-  <b>Huzaifa</b>
+  <b>Huzaifa's Github</b>
 </h1>
 
 Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar NUST.
