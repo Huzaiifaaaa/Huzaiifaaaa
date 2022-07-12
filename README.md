@@ -17,7 +17,5 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar N
 </p>
 <br>
 
-[![Huzaiifaaaa Activity Graph](https://activity-graph.herokuapp.com/graph?username=Huzaiifaaaa&custom_title=Huzaiifaaaa's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
-------
+[![Huzaiifaaaa Activity Graph](https://activity-graph.herokuapp.com/graph?username=Huzaiifaaaa&custom_title=Huzaiifaaaa's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
