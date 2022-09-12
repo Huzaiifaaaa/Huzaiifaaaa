@@ -2,7 +2,7 @@
   <b>Huzaifa's Github</b>
 </h1>
 
-Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program ar NUST.
+Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program at NUST.
 <br/>
 <br/>
 ![](https://komarev.com/ghpvc/?username=Huzaiifaaaa&label=Visitor+Count+:&style=for-the-badge)
