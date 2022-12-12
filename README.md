@@ -21,5 +21,5 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program at N
 </p>
 <br>
 
-![Huzaiifaaaa Activity Graph](https://activity-graph.herokuapp.com/graph?username=Huzaiifaaaa&custom_title=Huzaiifaaaa's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=huzaiifaaaa&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
