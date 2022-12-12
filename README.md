@@ -21,5 +21,5 @@ Heya! I'm Huzaifa, a student currently enrolled in Computer Science Program at N
 </p>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=huzaiifaaaa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Huzaiifaaaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=huzaiifaaaa&bg_color=1c1217&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
